@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: William
+-Profissão: Analista de Teste
+-Cidade: Sorocaba
+-O que faz nas horas vaga: Assisto séries
+-Feedback sobre o curso Qualidade de Software: Foi e tem sido de muita valia, principalmente quando preciso voltar e relembrar algum conceito de QA
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma muito intuitiva, eu só acrescentaria a funcionalidade de pular para o próximo vídeo automaticamente assim que ele é concluído
 
 Obrigado!!!
 
